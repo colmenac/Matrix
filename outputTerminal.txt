@@ -1,0 +1,273 @@
+Please give your matrix a name: a
+
+Please input the number for postion (1, 1) of the matrix: 1
+
+Please input the number for postion (1, 2) of the matrix: 2
+
+Please input the number for postion (2, 2) of the matrix: 3
+
+Please input the number for postion (2, 2) of the matrix: 4
+
+Please give your matrix a name: 1
+
+Please input the number for postion (1, 1) of the matrix: 1
+
+Please input the number for postion (1, 2) of the matrix: 2
+
+Please input the number for postion (2, 2) of the matrix: 3
+
+Please input the number for postion (2, 2) of the matrix: 4
+
+Please input the scalar: 5
+
+Inputted Data:
+Matrix 1:
+ _ a                _
+| 1         2        |
+|                    |
+|_3         4       _|
+Matrix 2:
+ _ 1                _
+| 1         2        |
+|                    |
+|_3         4       _|
+Scalar: 5
+
+1. Add matrices
+2. Subtract matrices
+3. Multiply matrices
+4. Multiply matrix by scalar
+5. Find the inverse of a matrix
+Input a number for the option you'd like to pick (input any other number to exit): 1
+Sum:
+ _ Sum              _
+| 2         4        |
+|                    |
+|_6         8       _|
+Please give your matrix a name: a
+
+Please input the number for postion (1, 1) of the matrix: 1
+
+Please input the number for postion (1, 2) of the matrix: 2
+
+Please input the number for postion (2, 2) of the matrix: 3
+
+Please input the number for postion (2, 2) of the matrix: 4
+
+Please give your matrix a name: 1
+
+Please input the number for postion (1, 1) of the matrix: 1
+
+Please input the number for postion (1, 2) of the matrix: 2
+
+Please input the number for postion (2, 2) of the matrix: 3
+
+Please input the number for postion (2, 2) of the matrix: 4
+
+Please input the scalar: 5
+
+Inputted Data:
+Matrix 1:
+ _ a                _
+| 1         2        |
+|                    |
+|_3         4       _|
+Matrix 2:
+ _ 1                _
+| 1         2        |
+|                    |
+|_3         4       _|
+Scalar: 5
+
+1. Add matrices
+2. Subtract matrices
+3. Multiply matrices
+4. Multiply matrix by scalar
+5. Find the inverse of a matrix
+Input a number for the option you'd like to pick (input any other number to exit): 2
+Difference:
+ _ Difference       _
+| 0         0        |
+|                    |
+|_0         0       _|
+Please give your matrix a name: 1
+
+Please input the number for postion (1, 1) of the matrix: 1
+
+Please input the number for postion (1, 2) of the matrix: 2
+
+Please input the number for postion (2, 2) of the matrix: 3
+
+Please input the number for postion (2, 2) of the matrix: 4
+
+Please give your matrix a name: s
+
+Please input the number for postion (1, 1) of the matrix: 1
+
+Please input the number for postion (1, 2) of the matrix: 4
+
+Please input the number for postion (2, 2) of the matrix: 5
+
+Please input the number for postion (2, 2) of the matrix: 6
+
+Please input the scalar: 5
+
+Inputted Data:
+Matrix 1:
+ _ 1                _
+| 1         2        |
+|                    |
+|_3         4       _|
+Matrix 2:
+ _ s                _
+| 1         4        |
+|                    |
+|_5         6       _|
+Scalar: 5
+
+1. Add matrices
+2. Subtract matrices
+3. Multiply matrices
+4. Multiply matrix by scalar
+5. Find the inverse of a matrix
+Input a number for the option you'd like to pick (input any other number to exit): 3
+Product:
+ _ Product          _
+| 11        16       |
+|                    |
+|_23        36      _|
+Please give your matrix a name: a
+
+Please input the number for postion (1, 1) of the matrix: 1
+
+Please input the number for postion (1, 2) of the matrix: 2
+
+Please input the number for postion (2, 2) of the matrix: 3
+
+Please input the number for postion (2, 2) of the matrix: 4
+
+Please give your matrix a name: d
+
+Please input the number for postion (1, 1) of the matrix: 2 
+
+Please input the number for postion (1, 2) of the matrix: 4
+
+Please input the number for postion (2, 2) of the matrix: 5
+
+Please input the number for postion (2, 2) of the matrix: 6
+
+Please input the scalar: 6
+
+Inputted Data:
+Matrix 1:
+ _ a                _
+| 1         2        |
+|                    |
+|_3         4       _|
+Matrix 2:
+ _ d                _
+| 2         4        |
+|                    |
+|_5         6       _|
+Scalar: 6
+
+1. Add matrices
+2. Subtract matrices
+3. Multiply matrices
+4. Multiply matrix by scalar
+5. Find the inverse of a matrix
+Input a number for the option you'd like to pick (input any other number to exit): 4
+Which matrix would you like to use (1 or 2): 1
+Scalar Product:
+ _ Scalar Product   _
+| 6         12       |
+|                    |
+|_18        24      _|
+Please give your matrix a name: a
+
+Please input the number for postion (1, 1) of the matrix: 1
+
+Please input the number for postion (1, 2) of the matrix: 2
+
+Please input the number for postion (2, 2) of the matrix: 3
+
+Please input the number for postion (2, 2) of the matrix: 4
+
+Please give your matrix a name: 2
+
+Please input the number for postion (1, 1) of the matrix: 2
+
+Please input the number for postion (1, 2) of the matrix: 3
+
+Please input the number for postion (2, 2) of the matrix: 4
+
+Please input the number for postion (2, 2) of the matrix: 5
+
+Please input the scalar: 6
+
+Inputted Data:
+Matrix 1:
+ _ a                _
+| 1         2        |
+|                    |
+|_3         4       _|
+Matrix 2:
+ _ 2                _
+| 2         3        |
+|                    |
+|_4         5       _|
+Scalar: 6
+
+1. Add matrices
+2. Subtract matrices
+3. Multiply matrices
+4. Multiply matrix by scalar
+5. Find the inverse of a matrix
+Input a number for the option you'd like to pick (input any other number to exit): 5
+Which matrix would you like to use (1 or 2): 2
+Inverse:
+ _ Inverse          _
+| -2.5      1.5      |
+|                    |
+|_2         -1      _|
+Please give your matrix a name: a
+
+Please input the number for postion (1, 1) of the matrix: 1
+
+Please input the number for postion (1, 2) of the matrix: 2
+
+Please input the number for postion (2, 2) of the matrix: 3
+
+Please input the number for postion (2, 2) of the matrix: 4
+
+Please give your matrix a name: a
+
+Please input the number for postion (1, 1) of the matrix: 12
+
+Please input the number for postion (1, 2) of the matrix: 3
+
+Please input the number for postion (2, 2) of the matrix: 4
+
+Please input the number for postion (2, 2) of the matrix: 5
+
+Please input the scalar: 6
+
+Inputted Data:
+Matrix 1:
+ _ a                _
+| 1         2        |
+|                    |
+|_3         4       _|
+Matrix 2:
+ _ a                _
+| 12        3        |
+|                    |
+|_4         5       _|
+Scalar: 6
+
+1. Add matrices
+2. Subtract matrices
+3. Multiply matrices
+4. Multiply matrix by scalar
+5. Find the inverse of a matrix
+Input a number for the option you'd like to pick (input any other number to exit): 6
